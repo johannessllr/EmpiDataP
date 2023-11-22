@@ -11,3 +11,5 @@
 #5. Stellen Sie anhand einer geeigneten Tabelle oder Graphik dar, welche Gründe die Arbeitneh- mer:innen anfu ̈hren, warum Sie sich
 #HO wünschen. Gehen Sie dabei auf die Häufigkeit der ge- gebenen Antworten ein (z.B. durch ein Histogramm). Die dafu ̈r beno ̈tigte
 #n Variablen finden Sie unter dem Variablennamen mheimwunsch_ .
+
+Test Test TEst
